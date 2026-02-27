@@ -48,7 +48,7 @@
 
 FROM anaconda-7_base_image
     
-LABEL desc="Ghub askiced jupyter notebook docker image."
+LABEL desc="Ghub insolationiceex jupyter notebook docker image."
 
 # Set environment variable to avoid interactive prompts during installation
 ENV DEBIAN_FRONTEND=noninteractive
