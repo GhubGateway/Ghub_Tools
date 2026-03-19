@@ -2,6 +2,7 @@
 
 
 source ./get_alps.sh
+source ./get_alps2.sh
 source ./get_askiced.sh
 source ./get_cmct.sh
 source ./get_crevassedetect.sh
