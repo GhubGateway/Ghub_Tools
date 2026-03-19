@@ -4,7 +4,10 @@
 source ./get_alps.sh
 source ./get_askiced.sh
 source ./get_cmct.sh
+source ./get_crevassedetect.sh
 source ./get_crevmath.sh
+source ./get_glaft.sh
+source ./get_gstatsim.sh
 source ./get_icesheet1.sh
 source ./get_insolationiceex.sh
 source ./get_intro2python.sh
